@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="assets/display picture.jpg" alt="Dev Pic"/>
+    <img src="display picture.jpg" alt="Dev Pic"/>
   </a>
 </p>
 
