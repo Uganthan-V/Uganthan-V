@@ -51,113 +51,14 @@ I'm a Computer Science student at **Sri Venkateshwara College of Engineering**, 
 
 ## 🛠️ My Tech Stack
 
-<style>
-  table {
-    border: none;
-    border-collapse: collapse;
-    background: transparent;
-    width: 100%;
-  }
-  td {
-    border: none;
-    padding: 10px;
-    background: rgba(255, 255, 255, 0.1);
-    border-radius: 0px;
-    backdrop-filter: blur(10px);
-    color: #FFFFFF;
-  }
-  td:first-child {
-    font-weight: bold;
-    color: #000000; 
-  }
-  img {
-    border-radius: 10px;
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    transition: all 0.3s ease;
-  }
-  img:hover {
-    background: rgba(255, 255, 255, 0.2);
-    transform: scale(1.05);
-  }
-</style>
-
-<table width="100%">
-  <tr>
-    <td align="center" width="180">
-      <b>Languages</b>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/c-%23FFFFFF.svg?style=for-the-badge&logo=c&logoColor=%23000000&color=%23282828" alt="C"/>
-      <img src="https://img.shields.io/badge/c++-%23FFFFFF.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%23000000&color=%23282828" alt="C++"/>
-      <img src="https://img.shields.io/badge/python-%23FFFFFF.svg?style=for-the-badge&logo=python&logoColor=%23000000&color=%23282828" alt="Python"/>
-      <img src="https://img.shields.io/badge/dart-%23FFFFFF.svg?style=for-the-badge&logo=dart&logoColor=%23000000&color=%23282828" alt="Dart"/>
-      <img src="https://img.shields.io/badge/javascript-%23FFFFFF.svg?style=for-the-badge&logo=javascript&logoColor=%23000000&color=%23282828" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/typescript-%23FFFFFF.svg?style=for-the-badge&logo=typescript&logoColor=%23000000&color=%23282828" alt="TypeScript"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Frontend</b>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Flutter-%23FFFFFF.svg?style=for-the-badge&logo=Flutter&logoColor=%23000000&color=%23282828" alt="Flutter"/>
-      <img src="https://img.shields.io/badge/react-%23FFFFFF.svg?style=for-the-badge&logo=react&logoColor=%23000000&color=%23282828" alt="React"/>
-      <img src="https://img.shields.io/badge/angular.js-%23FFFFFF.svg?style=for-the-badge&logo=angularjs&logoColor=%23000000&color=%23282828" alt="AngularJS"/>
-      <img src="https://img.shields.io/badge/html5-%23FFFFFF.svg?style=for-the-badge&logo=html5&logoColor=%23000000&color=%23282828" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/css3-%23FFFFFF.svg?style=for-the-badge&logo=css3&logoColor=%23000000&color=%23282828" alt="CSS3"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Backend</b>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/node.js-%23FFFFFF.svg?style=for-the-badge&logo=node.js&logoColor=%23000000&color=%23282828" alt="NodeJS"/>
-      <img src="https://img.shields.io/badge/express.js-%23FFFFFF.svg?style=for-the-badge&logo=express&logoColor=%23000000&color=%23282828" alt="Express.js"/>
-      <img src="https://img.shields.io/badge/FastAPI-%23FFFFFF.svg?style=for-the-badge&logo=fastapi&logoColor=%23000000&color=%23282828" alt="FastAPI"/>
-      <img src="https://img.shields.io/badge/flask-%23FFFFFF.svg?style=for-the-badge&logo=flask&logoColor=%23000000&color=%23282828" alt="Flask"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Databases</b>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-%23FFFFFF.svg?style=for-the-badge&logo=mongodb&logoColor=%23000000&color=%23282828" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/mysql-%23FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=%23000000&color=%23282828" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/sqlite-%23FFFFFF.svg?style=for-the-badge&logo=sqlite&logoColor=%23000000&color=%23282828" alt="SQLite"/>
-      <img src="https://img.shields.io/badge/redis-%23FFFFFF.svg?style=for-the-badge&logo=redis&logoColor=%23000000&color=%23282828" alt="Redis"/>
-      <img src="https://img.shields.io/badge/firebase-%23FFFFFF.svg?style=for-the-badge&logo=firebase&logoColor=%23000000&color=%23282828" alt="Firebase"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>AI/ML</b>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/TensorFlow-%23FFFFFF.svg?style=for-the-badge&logo=TensorFlow&logoColor=%23000000&color=%23282828" alt="TensorFlow"/>
-      <img src="https://img.shields.io/badge/Keras-%23FFFFFF.svg?style=for-the-badge&logo=Keras&logoColor=%23000000&color=%23282828" alt="Keras"/>
-      <img src="https://img.shields.io/badge/PyTorch-%23FFFFFF.svg?style=for-the-badge&logo=PyTorch&logoColor=%23000000&color=%23282828" alt="PyTorch"/>
-      <img src="https://img.shields.io/badge/scikit--learn-%23FFFFFF.svg?style=for-the-badge&logo=scikit-learn&logoColor=%23000000&color=%23282828" alt="scikit-learn"/>
-      <img src="https://img.shields.io/badge/pandas-%23FFFFFF.svg?style=for-the-badge&logo=pandas&logoColor=%23000000&color=%23282828" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/numpy-%23FFFFFF.svg?style=for-the-badge&logo=numpy&logoColor=%23000000&color=%23282828" alt="NumPy"/>
-      <img src="https://img.shields.io/badge/Matplotlib-%23FFFFFF.svg?style=for-the-badge&logo=Matplotlib&logoColor=%23000000&color=%23282828" alt="Matplotlib"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Tools & Platforms</b>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/git-%23FFFFFF.svg?style=for-the-badge&logo=git&logoColor=%23000000&color=%23282828" alt="Git"/>
-      <img src="https://img.shields.io/badge/github-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=%23000000&color=%23282828" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/docker-%23FFFFFF.svg?style=for-the-badge&logo=docker&logoColor=%23000000&color=%23282828" alt="Docker"/>
-      <img src="https://img.shields.io/badge/figma-%23FFFFFF.svg?style=for-the-badge&logo=figma&logoColor=%23000000&color=%23282828" alt="Figma"/>
-      <img src="https://img.shields.io/badge/heroku-%23FFFFFF.svg?style=for-the-badge&logo=heroku&logoColor=%23000000&color=%23282828" alt="Heroku"/>
-      <img src="https://img.shields.io/badge/vercel-%23FFFFFF.svg?style=for-the-badge&logo=vercel&logoColor=%23000000&color=%23282828" alt="Vercel"/>
-    </td>
-  </tr>
-</table>
+| Category            | Technologies                                                                 |
+|---------------------|------------------------------------------------------------------------------|
+| **Languages**       | ![C](https://img.shields.io/badge/c-%23FFFFFF.svg?style=for-the-badge&logo=c&logoColor=%23000000&color=%23282828) ![C++](https://img.shields.io/badge/c++-%23FFFFFF.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%23000000&color=%23282828) ![Python](https://img.shields.io/badge/python-%23FFFFFF.svg?style=for-the-badge&logo=python&logoColor=%23000000&color=%23282828) ![Dart](https://img.shields.io/badge/dart-%23FFFFFF.svg?style=for-the-badge&logo=dart&logoColor=%23000000&color=%23282828) ![JavaScript](https://img.shields.io/badge/javascript-%23FFFFFF.svg?style=for-the-badge&logo=javascript&logoColor=%23000000&color=%23282828) ![TypeScript](https://img.shields.io/badge/typescript-%23FFFFFF.svg?style=for-the-badge&logo=typescript&logoColor=%23000000&color=%23282828) |
+| **Frontend**        | ![Flutter](https://img.shields.io/badge/Flutter-%23FFFFFF.svg?style=for-the-badge&logo=Flutter&logoColor=%23000000&color=%23282828) ![React](https://img.shields.io/badge/react-%23FFFFFF.svg?style=for-the-badge&logo=react&logoColor=%23000000&color=%23282828) ![AngularJS](https://img.shields.io/badge/angular.js-%23FFFFFF.svg?style=for-the-badge&logo=angularjs&logoColor=%23000000&color=%23282828) ![HTML5](https://img.shields.io/badge/html5-%23FFFFFF.svg?style=for-the-badge&logo=html5&logoColor=%23000000&color=%23282828) ![CSS3](https://img.shields.io/badge/css3-%23FFFFFF.svg?style=for-the-badge&logo=css3&logoColor=%23000000&color=%23282828) |
+| **Backend**         | ![NodeJS](https://img.shields.io/badge/node.js-%23FFFFFF.svg?style=for-the-badge&logo=node.js&logoColor=%23000000&color=%23282828) ![Express.js](https://img.shields.io/badge/express.js-%23FFFFFF.svg?style=for-the-badge&logo=express&logoColor=%23000000&color=%23282828) ![FastAPI](https://img.shields.io/badge/FastAPI-%23FFFFFF.svg?style=for-the-badge&logo=fastapi&logoColor=%23000000&color=%23282828) ![Flask](https://img.shields.io/badge/flask-%23FFFFFF.svg?style=for-the-badge&logo=flask&logoColor=%23000000&color=%23282828) |
+| **Databases**       | ![MongoDB](https://img.shields.io/badge/MongoDB-%23FFFFFF.svg?style=for-the-badge&logo=mongodb&logoColor=%23000000&color=%23282828) ![MySQL](https://img.shields.io/badge/mysql-%23FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=%23000000&color=%23282828) ![SQLite](https://img.shields.io/badge/sqlite-%23FFFFFF.svg?style=for-the-badge&logo=sqlite&logoColor=%23000000&color=%23282828) ![Redis](https://img.shields.io/badge/redis-%23FFFFFF.svg?style=for-the-badge&logo=redis&logoColor=%23000000&color=%23282828) ![Firebase](https://img.shields.io/badge/firebase-%23FFFFFF.svg?style=for-the-badge&logo=firebase&logoColor=%23000000&color=%23282828) |
+| **AI/ML**           | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FFFFFF.svg?style=for-the-badge&logo=TensorFlow&logoColor=%23000000&color=%23282828) ![Keras](https://img.shields.io/badge/Keras-%23FFFFFF.svg?style=for-the-badge&logo=Keras&logoColor=%23000000&color=%23282828) ![PyTorch](https://img.shields.io/badge/PyTorch-%23FFFFFF.svg?style=for-the-badge&logo=PyTorch&logoColor=%23000000&color=%23282828) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23FFFFFF.svg?style=for-the-badge&logo=scikit-learn&logoColor=%23000000&color=%23282828) ![Pandas](https://img.shields.io/badge/pandas-%23FFFFFF.svg?style=for-the-badge&logo=pandas&logoColor=%23000000&color=%23282828) ![NumPy](https://img.shields.io/badge/numpy-%23FFFFFF.svg?style=for-the-badge&logo=numpy&logoColor=%23000000&color=%23282828) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23FFFFFF.svg?style=for-the-badge&logo=Matplotlib&logoColor=%23000000&color=%23282828) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/git-%23FFFFFF.svg?style=for-the-badge&logo=git&logoColor=%23000000&color=%23282828) ![GitHub](https://img.shields.io/badge/github-%23FFFFFF.svg?style=for-the-badge&logo=github&logoColor=%23000000&color=%23282828) ![Docker](https://img.shields.io/badge/docker-%23FFFFFF.svg?style=for-the-badge&logo=docker&logoColor=%23000000&color=%23282828) ![Figma](https://img.shields.io/badge/figma-%23FFFFFF.svg?style=for-the-badge&logo=figma&logoColor=%23000000&color=%23282828) ![Heroku](https://img.shields.io/badge/heroku-%23FFFFFF.svg?style=for-the-badge&logo=heroku&logoColor=%23000000&color=%23282828) ![Vercel](https://img.shields.io/badge/vercel-%23FFFFFF.svg?style=for-the-badge&logo=vercel&logoColor=%23000000&color=%23282828) |
 
 ---
 
